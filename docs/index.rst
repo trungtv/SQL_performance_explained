@@ -1,5 +1,5 @@
 .. SQL performance explained (Vietnamese) documentation master file, created by
-   sphinx-quickstart on Mon Mar 23 23:26:45 2020.
+   sphinx-quickstart on Tue Mar 24 09:26:11 2020.
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
