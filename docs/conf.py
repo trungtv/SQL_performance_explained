@@ -20,13 +20,13 @@
 # -- Project information -----------------------------------------------------
 
 project = 'SQL performance explained (Vietnamese)'
-copyright = '2020, Markus Winand'
+copyright = '2020, Markus Winand (Bản dịch thực hiện bởi SoICT, BKHN)'
 author = 'Markus Winand'
 
 # The short X.Y version
-version = ''
+version = '0.1'
 # The full version, including alpha/beta/rc tags
-release = 'Database tuning'
+release = 'alpha'
 
 
 # -- General configuration ---------------------------------------------------
@@ -178,3 +178,15 @@ epub_exclude_files = ['search.html']
 
 
 # -- Extension configuration -------------------------------------------------
+
+import sphinx_rtd_theme
+
+html_theme = 'sphinx_rtd_theme'
+html_static_path = ['_static']
+html_theme_path = [sphinx_rtd_theme.get_html_theme_path()]
+html_logo = 'img/logo.png'
+html_theme_options = {
+    'logo_only': True,
+    'display_version': False,
+}
+

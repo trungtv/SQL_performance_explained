@@ -13,10 +13,3 @@ SQL performance explained (Vietnamese)!
 
    ch1/intro_index
    ch1/index_leaf_nodes
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
