@@ -3,14 +3,16 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to SQL performance explained (Vietnamese)'s documentation!
+SQL performance explained (Vietnamese)!
 ==================================================================
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :hidden:
+   :caption: Chapter 1
 
-
+   ch1/intro_index
+   ch1/index_leaf_nodes
 
 Indices and tables
 ==================
